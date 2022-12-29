@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Helo;
-- 👀 I’m interested in front-end, PHP & mySQL and software engineering;
+- 👀 I’m interested in front-end and software engineering;
 - 🌱 I’m currently learning HTML, CSS, JavaScript;
 - 📫 How to reach me:
 -     📍 linkedin: www.linkedin.com/in/heloísa-dalonso-25074318b;
