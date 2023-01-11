@@ -17,7 +17,8 @@
 
 ## 📊 &nbsp;GitHub Analytics
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arks-lacerda&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisadalonso&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arks-lacerda&theme=tokyonight" />
 </div>
 <!---
 heloisadalonso/heloisadalonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
