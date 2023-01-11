@@ -6,7 +6,7 @@
 -     📍 linkedin: www.linkedin.com/in/heloísa-dalonso-25074318b;
 -     📍 e-mail: heloisadalonso@gmail.com;
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Studying Technology Stack
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,11 +15,9 @@
 </div>
   
 
-## 📊 &nbsp;Stats
-
+## 📊 &nbsp;GitHub Analytics
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloisadalonso&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisadalonso&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arks-lacerda&theme=tokyonight" />
 </div>
 <!---
 heloisadalonso/heloisadalonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
