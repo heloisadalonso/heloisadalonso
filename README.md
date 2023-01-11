@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in front-end and software engineering;
 - 🌱 I’m currently learning HTML, CSS, JavaScript;
-- 📫 How to reach me: <br>
+- 📫 How to reach me:
   📍Linkedin: https://www.linkedin.com/in/helo%C3%ADsa-dalonso-25074318b/
   📍G-mail: heloisadalonso@gmail.com
 
