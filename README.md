@@ -3,8 +3,8 @@
 - 👀 I’m interested in front-end and software engineering;
 - 🌱 I’m currently learning HTML, CSS, JavaScript;
 - 📫 How to reach me:
--     📍 linkedin: www.linkedin.com/in/heloísa-dalonso-25074318b;
--     📍 e-mail: heloisadalonso@gmail.com;
+-     📍   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+-     📍   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
