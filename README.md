@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Helo</h1>
-##
+
 - 👀 I’m interested in front-end and software engineering;
 - 🌱 I’m currently learning HTML, CSS, JavaScript;
 - 📫 How to reach me: <br>
