@@ -21,9 +21,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisadalonso&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisadalonso&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heloisadalonso&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heloisadalonso&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heloisadalonso&theme=tokyonight&utcOffset=8" />
-</div>
 
 <!---
 heloisadalonso/heloisadalonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
