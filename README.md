@@ -6,22 +6,26 @@
 -     📍 linkedin: www.linkedin.com/in/heloísa-dalonso-25074318b;
 -     📍 e-mail: heloisadalonso@gmail.com;
 
-## 🛠 &nbsp;Studying Technology Stack
+## 🛠 &nbsp;Tech Stack
 
-  <div align="center">
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width='60' title='CSS3'  />
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />
-    <img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width='60'  title='Git' />
-  </div>
+### 👩‍💻 &nbsp;Back-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+### 🎨 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+### ⚡ &nbsp;Database 
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+## 📊 &nbsp;Stats
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisadalonso&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisadalonso&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heloisadalonso&theme=tokyonight" />
-
+  <a href="https://github.com/heloisadalonso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloisadalonso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisadalonso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!---
 heloisadalonso/heloisadalonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
