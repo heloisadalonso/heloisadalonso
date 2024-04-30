@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Helo</h1>
 
-- 👀 I’m interested in front-end and software engineering;
-- 🌱 I’m currently learning HTML, CSS, JavaScript;
+- 👀 I’m interested in front-end development and emerging technologies;
+- 🌱 I’m currently learning AWS Cloud and AI;
 - 📫 How to reach me:
 -     📍 linkedin: www.linkedin.com/in/heloisadalonso;
 -     📍 e-mail: heloisadalonso@gmail.com;
